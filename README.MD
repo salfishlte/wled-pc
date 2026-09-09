@@ -23,6 +23,12 @@ adjustment of light temperature from warm to cool (0-255)
 #### hardware setting (beta)
 you can control the hardware, change the name of the device, the number of diodes, mA and other
 
+## installation
+
+to install the utility, simply run this one-line command in your terminal. it will automatically download the latest release and make it executable:
+```bash
+sudo curl -L "https://github.com/salfishlte/wled-pc/releases/latest/download/wled" -o /usr/local/bin/wled && sudo chmod +x /usr/local/bin/wled
+
 ## credits
 
 * **[wled](https://github.com/Aircoookie/WLED)** — wonderful project for controlling WS2812B LEDs <3
