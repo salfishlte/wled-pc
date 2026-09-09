@@ -1,3 +1,6 @@
+> [!WARNING]
+> the program may be unstable on win/macos
+
 ## wled-pc
 wled-pc is a lightweight, blazing-fast TUI utility for controlling wled devices directly from your terminal without any heaps of complex code or complicated steps
 
