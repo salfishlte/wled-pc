@@ -1,5 +1,5 @@
-## wled-for-linux
-wled-for-linux is a lightweight, blazing-fast TUI utility for controlling wled devices directly from your terminal without any heaps of complex code or complicated steps
+## wled-pc
+wled-pc is a lightweight, blazing-fast TUI utility for controlling wled devices directly from your terminal without any heaps of complex code or complicated steps
 
 it brings instant lighting control through an intuitive interactive menu, beyond the menu, you can control multiple devices in moment and adjust settings such as color, ссt, brightness, and the like.
 
