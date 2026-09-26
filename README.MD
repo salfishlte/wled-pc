@@ -30,7 +30,7 @@ you can control the hardware, change the name of the device, the number of diode
 
 to install the utility, simply run this one-line command in your terminal. it will automatically download the latest release and make it executable:
 ```
-sudo curl -L "https://github.com/salfishlte/wled-pc/releases/latest/download/wled" -o /usr/local/bin/wled && sudo chmod +x /usr/local/bin/wled
+sudo curl -L "https://github.com/salfishlte/wled-pc/releases/latest/download/wled-pc" -o /usr/local/bin/wled && sudo chmod +x /usr/local/bin/wled
 ```
 
 ## credits
